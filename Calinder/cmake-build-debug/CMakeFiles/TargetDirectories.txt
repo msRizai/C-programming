@@ -1,0 +1,3 @@
+C:/Users/msadi/CLionProjects/Calinder/cmake-build-debug/CMakeFiles/Calinder.dir
+C:/Users/msadi/CLionProjects/Calinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msadi/CLionProjects/Calinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
