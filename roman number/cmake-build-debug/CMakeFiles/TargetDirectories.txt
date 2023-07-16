@@ -1,0 +1,3 @@
+C:/Users/msadi/CLionProjects/roman number/cmake-build-debug/CMakeFiles/roman_number.dir
+C:/Users/msadi/CLionProjects/roman number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msadi/CLionProjects/roman number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
